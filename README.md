@@ -1,5 +1,5 @@
-#TÍtulo do meu README
-Aque nesse arquivo README teremos as informações relativas ao nosso projeto. 
+# TÍtulo do meu README
+Aqui nesse arquivo README teremos as informações relativas ao nosso projeto. 
 
-##Subtitulo README
--Tópicos 1
+## Subtitulo README
+- Tópicos 1: blabla
